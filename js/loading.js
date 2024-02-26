@@ -1,3 +1,3 @@
-loadText = document.querySelector('.loading-)
+loadText = document.querySelector('.loading-text)
 
 loadText.innerText = "5%"
