@@ -52,7 +52,7 @@ body{
 }
 
 
-@media (max0width: 480px) {
+@media (max-width: 480px) {
     .panel:nth-of-type(4){
         display: none;
     }
