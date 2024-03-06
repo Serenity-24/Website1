@@ -20,3 +20,7 @@ body {
     cursor: pointer;
     font-family: "Poppins", sans-serif;
 }
+
+.btn:hover {
+    opacity: 0.9;
+}
