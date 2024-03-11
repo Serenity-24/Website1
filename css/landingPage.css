@@ -6,7 +6,7 @@
     --modal-duration: 1s;
 }
 * {
-    box-sizing: border-box:
+    box-sizing: border-box;
 }
 
 body{
@@ -15,6 +15,6 @@ body{
 }
 
 nav{
-    background-color; var(--primary-color);
+    background-color: var(--primary-color);
     position: fixed;
 }
